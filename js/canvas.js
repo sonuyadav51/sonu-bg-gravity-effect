@@ -4,8 +4,8 @@ const canvas = document.querySelector('#canvas');
 const c = canvas.getContext('2d');
 
 // Settng width and height
-canvas.width = innerWidth;
-canvas.height = innerHeight;
+//canvas.width = innerWidth;
+//canvas.height = innerHeight;
 // Creating mouse posiston
 const mouse = {
   x: innerWidth / 2,
